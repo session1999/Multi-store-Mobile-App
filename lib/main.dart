@@ -10,8 +10,8 @@
 //   Platform.isAndroid
 //       ? await Firebase.initializeApp(
 //           options: FirebaseOptions(
-//               apiKey: "AIzaSyBylck1h-mkjrvqrZQa9sZPjn4IJY1R9I4",
-//               appId: "1:532733769418:android:2036d36d9b29ab0ff6e633",
+//               
+//               
 //               messagingSenderId: "532733769418",
 //               projectId: "shopping-app-d6991",
 //               storageBucket: "gs://shopping-app-d6991.firebasestorage.app"),
