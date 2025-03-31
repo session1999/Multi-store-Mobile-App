@@ -14,7 +14,7 @@
 //               
 //               messagingSenderId: "532733769418",
 //               projectId: "shopping-app-d6991",
-//               storageBucket: "gs://shopping-app-d6991.firebasestorage.app"),
+//               storageBucket: ",
 //         )
 //       : await Firebase.initializeApp();
 
