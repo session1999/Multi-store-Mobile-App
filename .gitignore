@@ -43,3 +43,5 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+#ignore google-service.json
+/Users/aaee/FlutterHomeTest/shopping_app/android/app/google-services.json
